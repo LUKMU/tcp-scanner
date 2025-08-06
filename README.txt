@@ -1,6 +1,6 @@
 # 🔍 TCP Port Scanner (v1.0)
 
-A lightweight Python-based TCP port scanner that allows users to scan a target host using either a random set of ports or a list of commonly used service ports. Built as part of a hands-on cybersecurity learning journey, this tool is designed for clarity, extendability, and real-world relevance.
+A lightweight Python-based TCP port scanner that allows users to scan a target host using either a random set of ports or a list of commonly used service ports. Built as part of a hands-on cybersecurity learning journey, this tool is designed for clarity, extendibility, and real-world relevance.
 
 ---
 
@@ -19,23 +19,12 @@ A lightweight Python-based TCP port scanner that allows users to scan a target h
   - Network errors (socket.error, OSError)
 
 ---
-
-## 🛠️ Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/tcp-scanner.git
-   cd tcp-scanner
 Run the script:
 
-bash
-Copy code
-python tcp_scanner.py
+
 ✅ Python 3.7+ recommended (no external packages required)
 
 💻 Example Usage
-java
-Copy code
 Enter IP address or hostname to scan: scanme.nmap.org
 
 Choose scan mode:
@@ -59,12 +48,12 @@ v1.7	Save results to file (log or CSV)
 
 📁 Project Structure
 bash
-Copy code
+
 /tcp-scanner
 │
 ├── tcp_scanner.py       # Main scanner script
 ├── README.md            # You are here
-└── /logs/               # Session notes, dev logs (optional)
+
 ⚠️ Legal Note
 This tool is intended for educational and authorized testing purposes only.
 Always obtain permission before scanning any network you do not own.
