@@ -59,4 +59,4 @@ This tool is intended for educational and authorized testing purposes only.
 Always obtain permission before scanning any network you do not own.
 
 📚 Author & Background
-This project is part of a structured cybersecurity journey led by a former U.S. Naval Academy computer science graduate. It blends tool building, system hardening, and creative exploration — including an evolving character-based design framework inspired by Layla Lunara (Star Wars universe).
+This project is part of a structured cybersecurity journey led by a former U.S. Naval Academy computer science graduate. It blends tool building, system hardening, and creative exploration.
